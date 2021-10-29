@@ -1,0 +1,1 @@
+(self.webpackChunkdemo_car=self.webpackChunkdemo_car||[]).push([[8962],{8962:(e,s,a)=>{"use strict";a.r(s),a.d(s,{SplashScreenWeb:()=>h});var c=a(8384);class h extends c.Uw{async show(e){}async hide(e){}}}}]);
